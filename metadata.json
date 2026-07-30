@@ -1,0 +1,6 @@
+{
+  "name": "Solana dApp Boilerplate",
+  "description": "A production-ready Next.js 14 Web3 dApp with integrated Solana Wallet Adapter, Devnet airdrop requests, and message signing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
